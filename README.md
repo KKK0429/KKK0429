@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaushik
 - 👀 I’m interested in doing projects for right now
-- 🌱 I’m currently learning Python,blender,UI/UX
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
