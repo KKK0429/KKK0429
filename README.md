@@ -3,7 +3,7 @@
 
 - 🔭 I currently worked on **campa mockup project**
 
-- 🌱 I’m currently learning **data analytics**
+- 🌱 I’m currently learning **back-end,data analytics**
 
 - 💬 Ask me about **html,css,js**
 
