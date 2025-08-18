@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm K.Koushik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate A.I enthusiast from India</h3>
 
-- 🔭 I worked on **campa mockup project**
+- 🔭 I worked on **campa mockup project** & **AI agents**
 
 - 🌱 I’m currently learning **back-end,data analytics**
 
-- 💬 Ask me about **html,css,js**
+- 💬 Ask me about **Python,Java,HTML,CSS,Ollama,Langchain,CrewAI,Data analytics**
 
 - 📫 How to reach me **koushik.6k2@gmailcom**
 
